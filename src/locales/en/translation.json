@@ -1,0 +1,27 @@
+{
+  "header": {
+    "topHeader": {
+      "location": {
+        "one": "Store Location: ",
+        "two": "Lincoln- 344, Illinois,",
+        "three": "Chicago, USA"
+      },
+      "lang": {
+        "ar": "ar",
+        "en": "en"
+      },
+      "currency": {
+        "usd": "USD",
+        "eur": "EUR",
+        "egp": "EGP"
+      }
+    },
+    "navbar": {
+      "home": "Home",
+      "shop": "shop",
+      "blog": "Blog",
+      "about": "About",
+      "tel": "(219) 555-0114"
+    }
+  }
+}
